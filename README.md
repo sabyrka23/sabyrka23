@@ -1,2 +1,4 @@
-![](./frame1.png)
-![](./frame2.png)
+![](./assets/header.svg)
+![](./assets/about.svg)
+![](./assets/stack.svg)
+![](./assets/connect.svg)
