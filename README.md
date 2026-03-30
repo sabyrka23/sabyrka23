@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center;">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="./assets/header/header-dark.svg" />
 		<source media="(prefers-color-scheme: light)" srcset="./assets/header/header-light.svg" />
